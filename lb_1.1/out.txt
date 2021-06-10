@@ -1,0 +1,3 @@
+type: WORKER, name: Bill, salaryPerMonth: 2700
+type: WORKER, name: David, salaryPerMonth: 2200
+type: MANAGER, name: Jack, salaryPerMonth: 4100
